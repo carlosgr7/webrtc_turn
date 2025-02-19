@@ -9,7 +9,7 @@ class SignalingService {
     var config = {
       'iceServers': [
         {'urls': 'stun:stun.l.google.com:19302'},
-        {'urls': 'turn:34.118.78.214:3478', 'username': 'user', 'credential': 'e5308562c7480b9c4e6f5cc5294c06125900b5d60eb5889210895bb14e1caa9d'}
+        {'urls': 'turn:10.186.0.2:3478', 'username': 'user', 'credential': 'e5308562c7480b9c4e6f5cc5294c06125900b5d60eb5889210895bb14e1caa9d'}
       ]
     };
 
